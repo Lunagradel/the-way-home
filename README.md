@@ -1,2 +1,2 @@
-# the Way Home
+# The Way Home
 Game build with CreateJS
