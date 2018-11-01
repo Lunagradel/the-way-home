@@ -1,2 +1,2 @@
-# the-way-home
-Game build for the Multimedia Study
+# the Way Home
+Game build with CreateJS
