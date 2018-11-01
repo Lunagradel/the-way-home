@@ -1,0 +1,19 @@
+{
+
+"images": [
+    "sprite/enemyhelpsprite.png"
+],
+
+"frames": [
+    [0, 0, 244, 650, 0, 0, 0],
+    [0, 650, 58, 650, 0, 0, 0],
+    [58, 650, 101, 395, 0, 0, 0]
+],
+
+"animations": {
+    "dogbone": [0],
+    "unlocked": [1],
+    "homelesspaid": [2]
+}
+
+}

@@ -1,0 +1,19 @@
+{
+
+"images": [
+    "sprite/doorsprite.png"
+],
+
+"frames": [
+    [0, 0, 539, 458, 0, 0, 0],
+    [0, 458, 325, 529, 0, 0, 0],
+    [325, 458, 450, 459, 0, 0, 0]
+],
+
+"animations": {
+    "halldoor2": [0],
+    "home": [1],
+    "halldoor": [2]
+}
+
+}

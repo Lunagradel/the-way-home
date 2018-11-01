@@ -1,0 +1,11 @@
+{
+    "framerate": 3.5,
+    "images": ["sprite/heross.png"],
+    "frames": {"width": 150, "height": 390, "regX": 0, "regY": 0},
+    "animations": {
+        "right":[0,5],
+        "left":[6,11],
+        "standingRight":[12],
+        "standingLeft":[13]
+    }
+}

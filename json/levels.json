@@ -1,0 +1,146 @@
+{
+    "levels":[
+        {
+            "boxes":[
+                {"x": 800, "y": 502, "width": 180, "sprite":"milk"},
+                {"x": 980, "y": 502, "width": 180, "sprite":"milk"},
+                {"x": 4200, "y": 502, "width": 100, "sprite":"trash"},
+                {"x": 6200, "y": 502, "width": 180, "sprite":"box"},
+                {"x": 7800, "y": 502, "width": 100, "sprite":"trash"},
+                {"x": 8500, "y": 502, "width": 180, "sprite":"box"},
+                {"x": 8680, "y": 502, "width": 180, "sprite":"box"},
+                {"x": 8600, "y": 354, "width": 180, "sprite":"box"}
+            ],
+            "enemies":[
+                {"x": 2000, "y": 0, "width": 245, "height": 650, "sprite":"dog"},
+                {"x": 4720, "y": 0, "width": 58, "height": 658, "sprite":"locked"},
+                {"x": 7020, "y": 183, "width": 235, "height": 467, "sprite":"cray"}
+                
+            ], 
+            "branches":[
+                {"x": 406, "y": 485, "width": 75, "height": 164, "sprite":"greybox"},
+                {"x": 1355, "y": 502, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 1322, "y": 450, "width": 200, "height": 97, "sprite":"branch3"},
+                {"x": 1558, "y": 300, "width": 120, "height": 97, "sprite":"branch1"},
+                {"x": 3489, "y": 485, "width": 75, "height": 164, "sprite":"greybox"},
+                {"x": 3150, "y": 275, "width": 329, "height": 375, "sprite":"basement"},
+                {"x": 3545, "y": 110, "width": 326, "height": 529, "sprite":"topdoor"}
+            ],
+            "help":[
+                {"x": 1600, "y": -70, "width": 50, "height": 50, "sprite":"bone"},
+                {"x": 3780, "y": -130, "width": 70, "height": 46, "sprite":"keys"}
+            ],
+            "enemyhelp":[
+                {"x": 717, "y": 0, "width": 245, "height": 650, "sprite":"dogbone"},
+                {"x": 717, "y": 0, "width": 58, "height": 650, "sprite":"unlocked"}
+            ],
+            "doors":[
+                {"x": 5820, "y": 191, "width": 450, "height": 459, "sprite":"halldoor"}
+            ],
+            "bgIMG":"img/bglevel1.png"
+        },
+        {
+            "boxes": [
+                {"x": 1200, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 0, "y": -147, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 0, "y": -295, "width": 180, "height":148, "sprite":"pap"},
+                {"x": 1800, "y": -147, "width": 180, "height":148, "sprite":"pap"},
+                {"x": 1800, "y": -295, "width": 180, "height":148, "sprite":"pap"},
+                {"x": 1380, "y": -32, "width": 180, "height":34, "sprite":"package"},
+                {"x": 1800, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 1980, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 3000, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 4200, "y": -32, "width": 180, "height":34, "sprite":"package"},
+                {"x": 5000, "y": -32, "width": 180, "height":34, "sprite":"package"},
+                {"x": 4000, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 4501, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 4501, "y": 354, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 4680, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 5200, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 6070, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 6250, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 6430, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 6170, "y": 354, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 6350, "y": 354, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 6270, "y": 206, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 7400, "y": -147, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 7400, "y": -295, "width": 180, "height":148, "sprite":"pap"},
+                {"x": 7400, "y": 502, "width": 180, "height": 148, "sprite":"pap"},
+                {"x": 7400, "y": 354, "width": 180, "height":148, "sprite":"pap"}
+            ],
+            
+            "branches":[
+                {"x": 550, "y": 502, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 550, "y": 354, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 550, "y": 206, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 730, "y": 502, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 730, "y": 354, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 0, "y": 0, "width": 487, "height": 24, "sprite":"floor"},
+                {"x": 800, "y": 0, "width": 487, "height": 24, "sprite":"floor"},
+                {"x": 1286, "y": 0, "width": 487, "height": 24, "sprite":"floor"},
+                {"x": 2800, "y": 0, "width": 487, "height": 24, "sprite":"floor"},
+                {"x": 3286, "y": 0, "width": 487, "height": 24, "sprite":"floor"},
+                {"x": 4565, "y": 0, "width": 487, "height": 24, "sprite":"floor"},
+                {"x": 5051, "y": 0, "width": 487, "height": 24, "sprite":"floor"},
+                {"x": 1800, "y": 502, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 1800, "y": 354, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 1800, "y": 206, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 2500, "y": 502, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 2500, "y": 354, "width": 180, "height": 148, "sprite":"hallbox"},
+                {"x": 2500, "y": 206, "width": 180, "height": 148, "sprite":"hallbox"}
+            ],
+            
+            "enemies":[
+            ],
+            
+            "help":[
+                {"x": 1620, "y": -159, "width": 70, "height": 160, "sprite":"ferret"},
+                {"x": 3300, "y": 490, "width": 70, "height": 160, "sprite":"ferret"},
+                {"x": 5100, "y": -159, "width": 70, "height": 160, "sprite":"ferret"}
+            ],
+            "enemyhelp":[
+            ],
+            "doors":[
+                {"x": 4500, "y": 191, "width": 450, "height": 459, "sprite":"halldoor2"}
+            ],
+            "bgIMG":"img/bglevel2.png"
+            
+        },
+        {
+            "boxes": [
+                {"x": 1000, "y": 502, "width": 180, "sprite":"milk"},
+                {"x": 1600, "y": 502, "width": 180, "sprite":"box"},
+                {"x": 1780, "y": 502, "width": 180, "sprite":"box"},
+                {"x": 1960, "y": 502, "width": 180, "sprite":"box"},
+                {"x": 1680, "y": 354, "width": 180, "sprite":"box"},
+                {"x": 1860, "y": 354, "width": 180, "sprite":"box"},
+                {"x": 3500, "y": 502, "width": 180, "sprite":"milk"},
+                {"x": 3900, "y": 502, "width": 180, "sprite":"milk"},
+                {"x": 4300, "y": 502, "width": 180, "sprite":"milk"},
+                {"x": 4480, "y": 502, "width": 180, "sprite":"milk"},
+                {"x": 4380, "y": 354, "width": 180, "sprite":"milk"},
+                {"x": 5200, "y": 502, "width": 100, "sprite":"trash"},
+                {"x": 6800, "y": 502, "width": 180, "sprite":"box"},
+                {"x": 6800, "y": 354, "width": 180, "sprite":"milk"}
+                
+            ],
+            "branches":[
+                {"x": 1927, "y": 450, "width": 200, "height": 97, "sprite":"branch3"},
+                {"x": 2158, "y": 300, "width": 120, "height": 97, "sprite":"branch1"}
+            ],
+            "enemies":[
+                {"x": 4000, "y": 255, "width": 100, "height": 395, "sprite":"homeless"}
+            ],
+            "help":[
+            ],
+            "enemyhelp":[
+                {"x": 717, "y": 0, "width": 100, "height": 395, "sprite":"homelesspaid"}
+            ],
+            "doors":[
+                {"x": 4140, "y": 121, "width": 325, "height": 529, "sprite":"home"}
+            ],
+            "bgIMG":"img/bglevel3.png"
+            
+        }
+    ]
+}
